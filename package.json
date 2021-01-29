@@ -1,5 +1,5 @@
 {
-  "name": "gulp-watch",
+  "name": "vscode-gulp-watch",
   "version": "5.0.3",
   "description": "Watch, that actually is an endless stream",
   "main": "index.js",
@@ -18,12 +18,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/floatdrop/gulp-watch.git"
+    "url": "git://github.com/microsoft/vscode-gulp-watch.git"
   },
   "author": "Vsevolod Strukchinsky",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/floatdrop/gulp-watch/issues"
+    "url": "https://github.com/microsoft/vscode-gulp-watch/issues"
   },
   "devDependencies": {
     "coveralls": "^3.1.0",
